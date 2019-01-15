@@ -1,0 +1,12 @@
+body{
+	font-family: Verdana;
+	background-color: black;
+}
+.container {
+	background-color: red;
+}
+.row4{padding:3px;}
+
+.utd{ text-align: center;
+}
+.spel { text-align: center;}
